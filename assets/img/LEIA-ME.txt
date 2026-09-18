@@ -1,0 +1,16 @@
+FOTOS DO SITE
+=============
+
+Coloque aqui as fotos reais com exatamente estes nomes.
+Enquanto um arquivo não existir, o site mostra um placeholder elegante no lugar.
+
+  dra-eduarda-hero.jpg   Retrato vertical (4:5), ~1200x1500px — primeira dobra
+  dra-eduarda-sobre.jpg  Segunda foto, vertical (4:5), ~1000x1250px — seção Sobre
+  consultorio-1.jpg      Foto principal do consultório, horizontal, ~1400x1050px
+  consultorio-2.jpg      Foto menor, ~800x600px
+  consultorio-3.jpg      Foto menor, ~800x600px
+  og-image.jpg           Imagem de compartilhamento (WhatsApp/redes), 1200x630px
+
+Dicas de performance:
+  - Exporte em JPG qualidade ~75-80 (ou WebP) — idealmente abaixo de 250 KB cada.
+  - Não envie fotos direto da câmera (5-10 MB).
